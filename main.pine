@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // LeStratBot main script here
 //Authors: Mulligan and Bambakidis
 //Purpose: To send a notification to trading bot to enter a trade, when specific parameters are met
@@ -150,7 +149,6 @@ alertcondition(redCross != 0, "RedX", "RedX")
 alertcondition(longEma != 0, "Longema", "Longema")
 alertcondition(blueTriangle != 0, "Bluetriangle", "Bluetriangle")
 // } ALERTS
-=======
 //LeStratBot main script here
 //Authors: Mulligan and Bambakidis
 //For now just pseudocode/general idea of specific rules for bot to follow.
@@ -163,4 +161,3 @@ alertcondition(blueTriangle != 0, "Bluetriangle", "Bluetriangle")
 //potential confluence integration with le 15min - 4Hour 
 //focus on Cipher B and DBSI indicators, RSI and A, and potentially SR are for future confluence factors.
 //Future potential confluence with totality cipher awarness.
->>>>>>> 2f95da30ede872d66155f6b3715aa4ebe4fff236
